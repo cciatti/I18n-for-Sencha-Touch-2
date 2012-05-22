@@ -5,7 +5,7 @@
             "path": "../../sencha-touch-all-debug.js"
         },
 		{
-            "path": "../../i18n/i18n.js"
+            "path": "../../I18n/i18n.js"
         },
         {
             "path": "app.js",
